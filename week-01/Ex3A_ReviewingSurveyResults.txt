@@ -1,0 +1,131 @@
+Survey question 1. What do you envision yourself doing 5 minutes before class starts each day, to ensure that you are ready to start on time?
+
+What conclusion can you reach about the responses to this question? 
+People all have similar responses. the conclusion is everyone is well prepared for classes.
+
+Is the default summary or visualization helpful? How could it be improved?
+the summary was helpful, It gives me a percentage of how many answered minutes before class which was 50%. 
+
+For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+N/A
+
+For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+To be honest its difficult to read through so many responses and remember them all to find a trend or pattern. It would be easier if they were all yes or no questions.
+
+Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+I would use 3 different answers. one for each time frame before class starts like 5, 10, 15 minutes. that way the data would be easier to read.
+
+
+
+Survey question 2. Do you have a second monitor connected to your computer?
+
+What conclusion can you reach about the responses to this question?
+the majority said no. this shows that people need to go out of their way to get a second monitor.
+
+Is the default summary or visualization helpful? How could it be improved?
+I do like the default summary. It shows a pie chart with percentages as well as a legend with how many people answered no, yes, or other.
+
+For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+You can click more details and it will show you all of the responses. The tricky thing about analyzing this is that there are two answers that are worded differently but share the same result. so that makes the chart very misleading. for example there is "yes" and "yes, I have a second monitor".
+
+For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+N/A
+
+Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+I would keep the response options to just yes and no. this will make data much easier to understand. 
+
+
+
+Survey question 3. Do you have an external keyboard and mouse?
+
+What conclusion can you reach about the responses to this question? 
+Once again the majority do not have a keyboard an mouse so they need to get one.
+
+Is the default summary or visualization helpful? How could it be improved?
+Yes it is helpful.
+
+For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+in the more details page. 
+There are multiple different options for yes and no. this makes the data inaccurate. Now when looking at the chart it shows yes, no, and other. how do we know if the different variations of yes and no, are not in the other category. 
+
+For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+N/A
+
+Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+I would keep it to simple responses like yes, no, other. and that is it. They can explain other in their own words. but answering with just those responses will make the data more accurate.
+
+
+
+
+How do you plan to take notes for this class – in a doc on your computer, with pen and paper, or something else?
+
+What conclusion can you reach about the responses to this question? 
+People are mixed with their preferred note taking device.
+
+Is the default summary or visualization helpful? How could it be improved?
+No it is not. it only shows "with pen and paper" and "other", the majority is in other but I don't know what other is. 
+
+For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+by clicking on more details. there are different responses that are not included in the chart legend. It makes it difficult to understand the chart.
+
+For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+N/A
+
+Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+I would make the response questions more consistent. There are too many similar answers worded differently.
+
+
+
+Survey question 5. What is one question that you have right now, about this course generally or about a specific topic we’ll be talking about?
+
+What conclusion can you reach about the responses to this question? 
+People are curious and that curiosity is great for advancing in this field.
+
+Is the default summary or visualization helpful? How could it be improved?
+It is helpful, it shows how many responses there were and that a common questions involved the word data in it. It could have more information about the other responses.
+
+For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+N/A
+
+For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+I didn't really find any challenges other than reading a lot of responses and long responses. However I could just find common words that revealed a pattern.
+
+Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+I don't have any recommendations.
+
+
+
+
+Is there anything that surprised you about the survey responses?
+not necessarily, the biggest surprise was seeing that there were different responses for the same outcome. it makes the data inconsistent and difficult to understand in a chart. 
+
+
+Looking at the responses to questions 1 and 5, are there any ideas you might try to
+include in your morning routine, or any questions that you are also curious about?
+for question 1 I noticed all the answers are essentially the same so I didn't get any ideas. For question 5 there were a lot of questions that I did want answers to as well. Like "With AI getting so advanced these days, how is the actual job and role of a human data analyst going to shift or change over the next few years?" that is a question i truly have. 
+
+
+Pretend you are the instructor. Is there anything you can learn from this survey to help
+in how you approach teaching this class?
+Yes I would understand that some people may be just a tiny bit less efficient because they don't have a second monitor. but most importantly I would take the questions as curiosity and build on that. I would make sure to hear from the students and fuel their curiosity.
+
+
+Again, pretend you are the instructor. Do you think it was helpful or not helpful to
+make this survey anonymous? Why or why not? (If you can see both pros and cons,
+you may include both.)
+I can see both. I understand that some people may want to stay anonymous however I think it is important to know which students answered the questions so you can help them in any way you can. 
