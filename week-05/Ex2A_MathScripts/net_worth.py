@@ -4,6 +4,7 @@
 # 11/11/2026
 
 
+# Calculating net worth
 total_assests = 250000
 total_debt = 25000
 
