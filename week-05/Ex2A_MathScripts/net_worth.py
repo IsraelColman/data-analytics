@@ -1,7 +1,7 @@
 # Israel Colman
 # Ex2A_MathScripts
 # Lab 2
-# 11/11/2026
+# 11/10/2026
 
 
 # Calculating net worth

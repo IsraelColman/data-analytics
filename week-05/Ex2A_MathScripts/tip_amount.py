@@ -1,6 +1,6 @@
 # Israel Colman
 # tip_amount.py
-# 11/11/2026
+# 11/10/2026
 
 # Calculating the tip amount
 meal_cost = 23.62
