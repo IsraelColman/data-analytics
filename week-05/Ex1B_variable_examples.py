@@ -1,3 +1,8 @@
+# Israel Colman
+# Ex1B_variable_examples.py
+#11/10/2026
+
+
 customer_id = 12345 # My assumption is that this should be a unique identifier for each customer.
 customers_name = 'Sasuke Uchiha' # I thought that this should be first name + last name.
 customer_gender = 'Male' # this was pretty self explanatory, it could have been a single character though like 'M' or 'F'.
@@ -18,4 +23,3 @@ state = 'Utah'
 # and: is a logical operator.
 # ^is: to test if two variables are equal.^
 # ^import: to import a module.^
-
